@@ -1,0 +1,42 @@
+
+<html lang="en">
+    <link type="text/css" rel="stylesheet" id="dark-mode-custom-link">
+    <link type="text/css" rel="stylesheet" id="dark-mode-general-link">
+    <style lang="en" type="text/css" id="dark-mode-custom-style"></style>
+    <style lang="en" type="text/css" id="dark-mode-native-style"></style>
+
+    <head>
+	    <meta charset="UTF-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>🐺</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	    <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+    <body>
+	    <div class="content">
+		    <div class="row">
+                <a href="https://downloads.sleepydbd.com/5.2.0 Bypass.rar"><button type="button" class="btn btn-outline-danger">SSL Bypass</button></a>
+                <a href="https://downloads.sleepydbd.com/Configs.rar"><button type="button" class="btn btn-outline-danger">Configs</button></a>
+                <a href="https://downloads.sleepydbd.com/Bloodyslasher_v4.5.rar"><button type="button" class="btn btn-outline-danger">BloodySlasher</button></a>
+            </div>
+            <div class="row">
+                <a href="https://downloads.sleepydbd.com/Cookie_Grabber.zip"><button type="button" class="btn btn-outline-danger">Cookie Grabber</button></a>
+                <a href="https://downloads.sleepydbd.com/R-Unlocker.rar"><button type="button" class="btn btn-outline-danger">R-Unlocker</button></a>
+                <a href="https://downloads.sleepydbd.com/XQDBD_1.4_Self-Contained.rar"><button type="button" class="btn btn-outline-danger">Sender (XQDBD)</button></a>
+            </div>
+            <div class="row">
+                <a href="https://downloads.sleepydbd.com/5.2.0 Save Editor 1.rar"><button type="button" class="btn btn-outline-danger">Save Editor 1</button></a>
+                <a href="https://downloads.sleepydbd.com/5.2.0 Save Editor 2.rar"><button type="button" class="btn btn-outline-danger">Save Editor 2</button></a>
+                <a href="https://downloads.sleepydbd.com/Save Injector.rar"><button type="button" class="btn btn-outline-danger">Save Injector</button></a>
+            </div>
+            <div class="row">
+                <a href="https://downloads.sleepydbd.com/SleepyDBD v2.rar"><button type="button" class="btn btn-outline-danger">SleepyDBD</button></a>
+                <a href="https://downloads.sleepydbd.com/Sleepy_Auto_SSL_Bypass.zip"><button type="button" class="btn btn-outline-danger">Auto SSL Bypass</button></a>
+            </div>
+	    </div>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>

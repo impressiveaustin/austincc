@@ -1,0 +1,33 @@
+<html lang="en">
+<meta name="description" content="nya's basic website.">
+<link type="text/css" rel="stylesheet" id="dark-mode-custom-link">
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link">
+<style lang="en" type="text/css" id="dark-mode-custom-style"></style>
+<style lang="en" type="text/css" id="dark-mode-native-style"></style>
+
+<head>
+    <meta charset="UTF-8">
+    <link href="favicon.png" rel="shortcut icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>meow</title>
+    <link rel="stylesheet" href="assets/css/video-index.css">
+</head>
+
+<body>
+    <div class="content">
+        <h1 id="header">meow</h1>
+        <div class="social">
+            <p>
+                <a target="_blank" href="/repo.html">Repository</a>
+            </p>
+        </div>
+    </div>
+    <div class="hint">TAP TO UNMUTE</div>
+    <div class="bg">
+        <video src="files/Hopsin-Be11aCiao.mp4" muted="" autoplay="" loop=""
+            style="height: 1080px; width: 1920px;"></video>
+    </div>
+    <script src="assets/js/app.js"></script>
+</body>
+
+</html>
